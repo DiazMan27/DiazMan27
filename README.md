@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiazMan27
-- 👀 I’m interested in WebDesing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C#, Figma and Python
 
 <!---
